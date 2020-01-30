@@ -1,6 +1,6 @@
 ---
 id: tutorial-create-new-site
-title: Create a New Site
+title: Create a New Site 1
 ---
 
 In this section, we'll get our Docusaurus site up and running for local development. The process only takes a few minutes.
