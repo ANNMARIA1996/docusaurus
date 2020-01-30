@@ -3,7 +3,7 @@ id: tutorial-create-pages
 title: Create Pages
 ---
 
-In this section, we will learn about creating two types of pages in Docusaurus: a regular page and a documentation page.
+In this section, sjdkjdkjf we will learn about creating two types of pages in Docusaurus: a regular page and a documentation page.
 
 <img alt="Docusaurus MacBook" src="/img/undraw_docusaurus_tree.svg" class="docImage"/>
 
